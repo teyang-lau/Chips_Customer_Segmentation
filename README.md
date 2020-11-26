@@ -41,7 +41,7 @@ Retirees, older and younger singles and couples are the majority of the customer
 
 
 
-<img src = './Pictures/demographics.png' width='400'> <img src = './Pictures/customer_distribution.png' width='400'>
+<img src = './Pictures/demographics.png' width='440'> <img src = './Pictures/customer_distribution.png' width='440'>
 
 <br>
 
@@ -69,7 +69,7 @@ Looking at words and bigrams in the product names, a word cloud suggests that **
 
 
 
-## Analyses  ##
+## Analyses ##
 
 `Sales Per Unique Customer` plot has a higher sales per segment and this is because their are multiple customers who made multiple transactions in the given year. It seems that `Older Families` and `Young Families` pay the most for chips in the given year.
 
@@ -79,33 +79,13 @@ Looking at words and bigrams in the product names, a word cloud suggests that **
 
 `Mainstream Young Singles/Couples` contributed to the most sales (above), have the largest number of customers (bottom right) but tend to purchase lower quantities of chips (bottom left), perhaps this group can be further targeted for more advertisements/recommendations/promotions on certain brands to encourage more purchase and for purchasing slightly more expensive chip brands.
 
-<img src = './Pictures/quantity.png' align='left' width='470'><img src = './Pictures/unique_customers.png' align='left' width='470'>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src = './Pictures/quantity.png' width='440'> <img src = './Pictures/unique_customers.png' width='440'>
 
 
 <br>
 
 
-
-## Affinity Analysis
+## Affinity Analysis ##
 
 Using affinity analysis, `Mainstream Young Singles/Couples` tend to buy more `Tyrrells`, `Twisties`, and `Doritos`, and prefer product sizes of `270g` to `380g`. The store can perhaps place more of these products near the shelves that tend to attract younger and mainstream customers.
 
