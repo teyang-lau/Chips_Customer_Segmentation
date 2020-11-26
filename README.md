@@ -4,7 +4,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-<COLOR>.svg)](https://shields.io/)
-[![GitHub license](https://img.shields.io/github/license/teyang-lau/Dog_Breeds_Classification_CNN.svg)](https://github.com/teyang-lau/Neural_Style_Transfer/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/teyang-lau/Dog_Breeds_Classification_CNN.svg)](https://github.com/teyang-lau/Chips_Customer_Segmentation/blob/master/LICENSE)
 
 Author: TeYang, Lau <br>
 Last Updated: 26 November 2020
@@ -41,7 +41,7 @@ Retirees, older and younger singles and couples are the majority of the customer
 
 
 
-<img src = './Pictures/demographics.png' width='440'> <img src = './Pictures/customer_distribution.png' width='440'>
+<img src = './Pictures/demographics.png' width='460'> <img src = './Pictures/customer_distribution.png' width='460'>
 
 <br>
 
@@ -49,7 +49,7 @@ There seems to be an increase in sales during December, possibly due to people s
 
 
 
-<img src = './Pictures/salestime.png' width='450'> <img src = './Pictures/salesbysize.png' width='450'>
+<img src = './Pictures/salestime.png' width='460'> <img src = './Pictures/salesbysize.png' width='460'>
 
 <br>
 
