@@ -41,7 +41,7 @@ Retirees, older and younger singles and couples are the majority of the customer
 
 
 
-<img src = './Pictures/demographics.png' width='420'> <img src = './Pictures/customer_distribution.png' width='420'>
+<img src = './Pictures/demographics.png' width='400'> <img src = './Pictures/customer_distribution.png' width='400'>
 
 <br>
 
@@ -49,7 +49,7 @@ There seems to be an increase in sales during December, possibly due to people s
 
 
 
-<img src = './Pictures/salestime.png' width='420'> <img src = './Pictures/salesbysize.png' width='420'>
+<img src = './Pictures/salestime.png' width='400'> <img src = './Pictures/salesbysize.png' width='400'>
 
 <br>
 
@@ -79,7 +79,7 @@ Looking at words and bigrams in the product names, a word cloud suggests that **
 
 `Mainstream Young Singles/Couples` contributed to the most sales (above), have the largest number of customers (bottom right) but tend to purchase lower quantities of chips (bottom left), perhaps this group can be further targeted for more advertisements/recommendations/promotions on certain brands to encourage more purchase and for purchasing slightly more expensive chip brands.
 
-<img src = './Pictures/quantity.png' width='420'> <img src = './Pictures/unique_customers.png' width='420'>
+<img src = './Pictures/quantity.png' width='400'> <img src = './Pictures/unique_customers.png' width='400'>
 
 
 <br>
